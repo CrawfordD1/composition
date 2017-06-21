@@ -1,5 +1,6 @@
 package example.codeclan.com.composition_starter;
 
+
 public abstract class Carpet {
 
   String colour;
